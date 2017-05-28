@@ -1,0 +1,38 @@
+
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 24px;
+	font-style: normal;
+	font-variant: normal;
+	line-height: 50px;
+	color: #4E5965;
+	background-image:url('http://www.designlovefest.com/wp-content/uploads/downloads/2017/03/JGPcloudspace.jpg');
+	background-position: center;
+	background-size: cover;
+}
+
+.button {
+    background-color: #6495ED; 
+    border: none;
+    color: blue;
+    padding: 15px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 26px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+    width: 100%;
+}
+
+.button {
+    background-color: white; 
+    color: #4E5965; 
+    border: 2px solid #6495ED;
+}
+
+.button:hover {
+    background-color:  #6495ED;
+    color: white;
